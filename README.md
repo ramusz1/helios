@@ -48,7 +48,7 @@ object tracking algorithms.
 
 Install python dependencies:
 ```bash
-pip install numpy opencv-python pillow matplotlib jupyter xgboost==1.7.6  torch==2.0.1 torchvision==0.15.2 torch==2.0.1 torchaudio==2.0.2 torchdata==0.6.1 scikit-learn pandas
+pip install -r requirements.txt
 ```
 
 ### Install OSTrack
