@@ -19,20 +19,12 @@ Our project is an extension of OSTrack - "Joint Feature Learning and Relation Mo
 
 ## Abstract
 
-In this paper we present our video object tracking algorithm
-HELIOS (HyperspEctraL hIndsight OStracker) designed for
-snapshot mosaic hyperspectral cameras, as part of our sub-
-mission to the Third Hyperspectral Object Tracking Chal-
-lenge 2023. HELIOS is based on a high-performance RGB-
-based one-stream tracking framework for joint feature learn-
-ing and relational modeling based on self-attention operators.
-We further extend this framework to leverage information in
-the spectral domain through a new band selection algorithm
-and in the temporal domain through forward-backward con-
-sistency constraints. We obtained an averaged AUC of 0.634
-and DP@20 pixels score of 0.846 on the validation dataset,
-thereby outperforming several published SOTA hyperspectral
-object tracking algorithms.
+In this paper we present our video object tracking algorithm HELIOS (HyperspEctraL hIndsight OStracker) designed for snapshot mosaic hyperspectral cameras,
+as part of our submission to the Third Hyperspectral Object Tracking Challenge 2023.
+HELIOS is based on a high-performance RGB-based one-stream tracking framework for joint feature learning and relational modeling
+based on self-attention operators. We further extend this framework to leverage information in the spectral domain through a new band selection algorithm
+and in the temporal domain through forward-backward consistency constraints. We obtained an averaged AUC of 0.634 and DP@20 pixels score of 0.846 on the validation dataset,
+thereby outperforming several published SOTA hyperspectral object tracking algorithms.
 
 **Forward backward framework:**
 <p align="center">
