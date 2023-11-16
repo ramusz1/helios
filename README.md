@@ -2,7 +2,7 @@
 
 [Rafał Muszyński](https://orcid.org/0000-0002-1676-8458), [Hiep Luong](https://telin.ugent.be/~hluong/)
 
-[URC](https://urc.ugent.be/) - [IPI](https://ipi.ugent.be/) - Ghent University, IMEC
+[URC](https://urc.ugent.be/) - [IPI](https://ipi.ugent.be/) - [Ghent University](https://www.ugent.be/en), [IMEC](https://www.imec.be/nl)
 
 ---
 
