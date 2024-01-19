@@ -8,7 +8,7 @@
 
 This is the official implementation of the paper: "HELIOS: Hyperspectral Hindsight OSTracker". Our submission achieved the 3rd place in the [Hyperspectral object tracking challenge 2023](https://www.hsitracking.com) which was part of the [13th edition of the WHISPERS conference](https://www.ieee-whispers.com/).
 
-[Link to our paper](https://biblio.ugent.be/publication/01HMGW91APH2Y5AX6MJNXXV1VV)
+[Link to our paper](http://hdl.handle.net/1854/LU-01HMGW91APH2Y5AX6MJNXXV1VV)
 
 Our project is an extension of OSTrack - "Joint Feature Learning and Relation Modeling for Tracking: A One-Stream Framework": [code](https://github.com/botaoye/OSTrack) [paper](https://arxiv.org/abs/2203.11991) 
 
