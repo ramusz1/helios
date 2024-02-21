@@ -8,7 +8,7 @@
 
 This is the official implementation of the paper: "HELIOS: Hyperspectral Hindsight OSTracker". Our submission achieved the 3rd place in the [Hyperspectral object tracking challenge 2023](https://www.hsitracking.com) which was part of the [13th edition of the WHISPERS conference](https://www.ieee-whispers.com/).
 
-[Link to our paper](http://hdl.handle.net/1854/LU-01HMGW91APH2Y5AX6MJNXXV1VV)
+Links to our paper: [IEEEXplore](https://ieeexplore.ieee.org/document/10430711) [UGent library](http://hdl.handle.net/1854/LU-01HMGW91APH2Y5AX6MJNXXV1VV)
 
 Our project is an extension of OSTrack - "Joint Feature Learning and Relation Modeling for Tracking: A One-Stream Framework": [code](https://github.com/botaoye/OSTrack) [paper](https://arxiv.org/abs/2203.11991) 
 
@@ -94,9 +94,19 @@ Runs the HELIOS algorithm on an arbitrary hyperspectral input sequence.
 **outputs:**
 Outputs directory contains predictions of our model. Notably, `outputs/model_predictions/forward-backward-neighbours_v1-hsi-xgboost-falsecolor-mix-09-fixed` contains reproduced predictions of our model on the validation dataset.
 
-## Citation
-
-TBD
+## How to cite
+```
+@INPROCEEDINGS{10430711,
+  author={Muszyński, Rafał and Luong, Hiep},
+  booktitle={2023 13th Workshop on Hyperspectral Imaging and Signal Processing: Evolution in Remote Sensing (WHISPERS)}, 
+  title={Helios: Hyperspectral Hindsight Ostracker}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-5},
+  keywords={Representation learning;Signal processing algorithms;Signal processing;Data models;Object tracking;Spectral analysis;Hyperspectral imaging;hyperspectral video;object tracking;dimensionality reduction},
+  doi={10.1109/WHISPERS61460.2023.10430711}}
+```
 
 ## License
 
